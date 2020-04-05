@@ -1,0 +1,52 @@
+.latitude{
+    font-size: xx-large;
+    color:green;
+    background:rgb(74, 170, 175);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+body {
+    background: white;
+}
+
+.maindiv {
+    background: white;
+    margin-top: 30px;
+    height: 100%;
+}
+
+.visualizations {
+    background: white;
+    margin-top: 30px;
+    height: 100%;
+    /* margin-left: 20px; */
+}
+
+
+h1,h2 {
+    color: rgb(74, 170, 175);
+    font-size: 40px;
+    font-weight: bold;
+    height: 100px;
+    vertical-align: middle;
+padding-top:30px;   }
+
+.line{
+    width: 80%;
+    height: 7px;
+    border-bottom: 1px solid black;
+    position: absolute;
+
+    }
+
+.imagen-p {
+    float:left;
+    height:150px;
+}
+
+.imagen-v {
+    width:100%;
+    height: 100%;
+}
+/* style="font-size:45px;color:white; background: rgb(74, 170, 175)" */
